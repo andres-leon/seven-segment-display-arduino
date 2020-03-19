@@ -1,4 +1,4 @@
-# seven-segment-display-arduino
+# LARGE seven segment display arduino
 seven-segment-display-arduino
 this code is a modification from the code found at https://learn.sparkfun.com/tutorials/large-digit-driver-hookup-guide Thank you Nathan  for your work on this!
 
